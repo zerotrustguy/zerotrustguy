@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @zerotrustguy
-- 👀 I’m interested in Zero Trust Security
+- 👀 I’m interested in Zero Trust Security and AI 
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on Zero Trust Architecture/ Security
+- 💞️ I’m looking to collaborate on Zero Trust Architecture/ Security and AI 
 - 📫 How to reach me ...
 
 <!---
